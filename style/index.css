@@ -199,3 +199,8 @@ footer > a{
         min-width: 350px;
     }
 }
+
+footer p{
+    font-size: 12px;
+    color: #3d3d3d;
+}
