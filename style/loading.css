@@ -35,7 +35,6 @@
     }
     100% {
       -webkit-transform: scale(1.1);
-      -webkit-filter: brightness(200%);
     }
   }
   
@@ -46,6 +45,5 @@
     }
     100% {
       transform: scale(1.1);
-      filter: brightness(200%);
     }
   }
